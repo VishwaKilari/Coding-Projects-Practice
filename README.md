@@ -1,2 +1,3 @@
 # Coding-Projects-Practice
-This repo contains the coding projects i did for practice.
+- This repo contains the coding projects I did for practice.
+-  
